@@ -15,6 +15,7 @@ Grander telas acima de 1200px
     }
      section#login {
         width: 80vw;
+        height: 280px;
      }       
 
 section#login > div#imagem {
@@ -34,6 +35,7 @@ section#login > div#formulario {
     }
     section#login {
         width: 950px;
+        height: 350px;
     }
 
 
@@ -47,7 +49,8 @@ section#login > div#formulario {
     width: 50%;
 }
 div#formulario > p {
-    font-size: 1.2em
+    font-size: 1.2em;
+    margin: 20px 0px;
 }
 div#formulario > h1 {
     font-size: 2em;
